@@ -1,0 +1,7 @@
+C:\Users\uknwr\repos\BasicPrograms\BasicPrograms\bin\Debug\BasicPrograms.exe.config
+C:\Users\uknwr\repos\BasicPrograms\BasicPrograms\bin\Debug\BasicPrograms.exe
+C:\Users\uknwr\repos\BasicPrograms\BasicPrograms\bin\Debug\BasicPrograms.pdb
+C:\Users\uknwr\repos\BasicPrograms\BasicPrograms\obj\Debug\BasicPrograms.csproj.SuggestedBindingRedirects.cache
+C:\Users\uknwr\repos\BasicPrograms\BasicPrograms\obj\Debug\BasicPrograms.csproj.CoreCompileInputs.cache
+C:\Users\uknwr\repos\BasicPrograms\BasicPrograms\obj\Debug\BasicPrograms.exe
+C:\Users\uknwr\repos\BasicPrograms\BasicPrograms\obj\Debug\BasicPrograms.pdb
