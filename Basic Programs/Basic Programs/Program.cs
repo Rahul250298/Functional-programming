@@ -12,7 +12,7 @@ namespace BasicPrograms
         {
             Console.WriteLine("Welcome to basic program");
             BasicPrograms prob= new BasicPrograms();
-            prob.Factorization();
+            prob.Factorization(36);
             Console.ReadLine();
         }
     }
