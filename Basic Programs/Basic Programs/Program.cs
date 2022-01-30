@@ -11,8 +11,12 @@ namespace BasicPrograms
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to basic program");
-            BasicPrograms prob= new BasicPrograms();
-            prob.Factorization(36);
+            BasicPrograms prob = new BasicPrograms();
+            Console.WriteLine("Enter value of dividend");
+            int dividend = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter value of divisor");
+            int divisor = Convert.ToInt32(Console.ReadLine());
+            prob.Quotientremainder(dividend, divisor);
             Console.ReadLine();
         }
     }
