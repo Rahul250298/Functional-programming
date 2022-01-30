@@ -12,7 +12,7 @@ namespace BasicPrograms
         {
             Console.WriteLine("Welcome to basic program");
             BasicPrograms prob= new BasicPrograms();
-            prob.Checkpercentage();
+            prob.Check_leap_year();
             Console.ReadLine();
         }
     }
