@@ -16,7 +16,6 @@ namespace BasicPrograms
             Console.WriteLine("Dividend:" + dividend + " Divisor: " + divisor);
             Console.WriteLine("Quotient = " + quotient);
             Console.WriteLine("Remainder = " + remainder);
-     
         }
     }
 }
